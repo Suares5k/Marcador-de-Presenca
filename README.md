@@ -44,14 +44,6 @@ Este é um programa simples desenvolvido em Python com uma interface gráfica (G
 
 ![Screenshot](https://github.com/Suares5k/Marcador-de-presen-a/blob/master/Screenshot_648.png)
 
-## Contribuição
-
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Commit suas mudanças (`git commit -am 'Adicionei uma nova feature'`).
-4. Envie para a branch (`git push origin feature/nova-feature`).
-5. Crie um novo Pull Request.
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
