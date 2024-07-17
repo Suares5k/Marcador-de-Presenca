@@ -20,8 +20,8 @@ Este é um programa simples desenvolvido em Python com uma interface gráfica (G
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/Suares5k/Marcador-de-presen-a.git
-    cd Marcador-de-presen-a
+    git clone https://github.com/Suares5k/Marcador-de-Presenca.git
+    cd Marcador-de-Presenca
     ```
 
 2. Instale as dependências necessárias:
